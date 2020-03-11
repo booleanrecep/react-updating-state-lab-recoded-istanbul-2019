@@ -17,7 +17,7 @@ class DigitalClicker  React.Component{
     return(
       
       <div>
-        <button onClick={}>Click</button>
+        <button onClick={this.handleClick}>Click</button>
       </div>
       
       )
