@@ -1,6 +1,6 @@
 // Code DigitalClicker Component Here
 import React from "react"
-class DigitalClicker  React.Component{
+class DigitalClicker extends  React.Component{
   constructor(props){
     super(props)
     this.state={
